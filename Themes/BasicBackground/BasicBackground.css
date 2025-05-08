@@ -1,5 +1,5 @@
-@import url(https://mwittrien.github.io/gbfchdbkvjf/Themes/_res/SettingsIcons.css);
-@import url(https://mwittrien.github.io/gbfchdbkvjf/Themes/BlurpleRecolor/BlurpleRecolor.css);
+@import url(https://Ryann-4.github.io/gbfchdbkvjf/Themes/_res/SettingsIcons.css);
+@import url(https://Ryann-4.github.io/gbfchdbkvjf/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
 :root {
 	--overflowfloat:			0.00000000000000000000001;
@@ -24,7 +24,7 @@
 	--textdarker: 				125, 125, 125;
 	--textdarkest: 				90, 90, 90;
 	
-	--background:				url(https://mwittrien.github.io/gbfchdbkvjf/Themes/BasicBackground/_res/background.jpg);
+	--background:				url(https://Ryann-4.github.io/gbfchdbkvjf/Themes/BasicBackground/_res/background.jpg);
 	--backgroundposition:			center;
 	--backgroundsize:			cover;
 	--backgroundblur:			0;
@@ -2871,7 +2871,7 @@ body:has(#app-mount)::after {
 .bd-social-link[title="BBD" i] .bd-social-logo,
 .bd-social-link[title="BandagedBD" i] .bd-social-logo {
 	background: var(--interactive-normal);
-	-webkit-mask: url(https://mwittrien.github.io/gbfchdbkvjf/Themes/_res/svgs/settingsicons/betterdiscord.svg) center/contain no-repeat;
+	-webkit-mask: url(https://Ryann-4.github.io/gbfchdbkvjf/Themes/_res/svgs/settingsicons/betterdiscord.svg) center/contain no-repeat;
 	opacity: 1;
 	transition: background .15s ease;
 }
@@ -3103,7 +3103,7 @@ body:has(#app-mount)::after {
 }
 
 #app-mount .container__06283 {									/* voicesettings			voicebarcontainer						*/
-	-webkit-mask: url(https://mwittrien.github.io/gbfchdbkvjf/Themes/_res/svgs/common/voice_level_bar.svg);
+	-webkit-mask: url(https://Ryann-4.github.io/gbfchdbkvjf/Themes/_res/svgs/common/voice_level_bar.svg);
 }
 #app-mount .notches__06283 {
 	color: transparent !important;
@@ -7150,14 +7150,14 @@ html .bd-sidebar-header h2 {
 	width: 16px;
 	height: 16px;
 	padding: 0;
-	-webkit-mask: url(https://mwittrien.github.io/gbfchdbkvjf/Themes/_res/svgs/common/fav_star_empty.svg) center/contain no-repeat;
+	-webkit-mask: url(https://Ryann-4.github.io/gbfchdbkvjf/Themes/_res/svgs/common/fav_star_empty.svg) center/contain no-repeat;
 }
 #app-mount .fav:hover,
 #app-mount .fav.active {
 	background: #faa61a;
 }
 #app-mount .fav.active {
-	-webkit-mask: url(https://mwittrien.github.io/gbfchdbkvjf/Themes/_res/svgs/common/fav_star.svg) center/contain no-repeat;
+	-webkit-mask: url(https://Ryann-4.github.io/gbfchdbkvjf/Themes/_res/svgs/common/fav_star.svg) center/contain no-repeat;
 }
 
 #app-mount .bd-tab-item:hover {
@@ -7665,7 +7665,7 @@ html .typingindicator-folder {
 /* ~~~~		19.		UPDATENOTICE					~~~~ */
 
 html:only-child > head + body div.app_a3002d > div.app__160d8::before {
-	content: "Your Version of   BasicBackground   by DevilBro is outdated. Please download the newest Version:	https://mwittrien.github.io/downloader/?theme=BasicBackground" !important;
+	content: "Your Version of   BasicBackground   by DevilBro is outdated. Please download the newest Version:	https://Ryann-4.github.io/downloader/?theme=BasicBackground" !important;
 	display: var(--version1_0_5, block) !important;
 	background-color: #4a90e2 !important;
 	box-shadow: 0 1px 5px 0 rgba(var(--transparencycolor_v), .3) !important;
